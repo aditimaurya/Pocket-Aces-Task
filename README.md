@@ -1,10 +1,15 @@
 # Pocket-Aces-Task
-Hello is the brief disscussion that how to use this repository:
+Hello ,
+The reports of bothe the tasks have been found here: 
+1. [Task 1](https://docs.google.com/document/d/11y8Dp0pxtM7VRwwtngeAQUTne2u-YtYo0XMWZZg41uE/edit#heading=h.pl1udho7yq8v) ( Comparative Analysis of two different shows).
+2. [Task2](https://docs.google.com/document/d/1eBPrYeclbIQFf2dxNq0plP1t-BlmQgmVqXpeiRBLEpQ/edit?usp=sharing) Popularity Analysis of Ayush and Barkha in PFA Season 2.
+
+Below is the brief disscussion that how to use this repository:
 ### end to end process:
 ![1212](https://user-images.githubusercontent.com/50532530/135895881-b197fd48-496e-40c1-8432-3c9315895917.PNG)
 
-- Use [Dataset Cleaning code](https://drive.google.com/drive/folders/1A5owAtUSBFNXkHux3paXlmUSsAhnuqlW?usp=sharing) For cleaning the data.
-- USe for [Model Making code](https://github.com/aditimaurya/Pocket-Aces-Task/blob/main/Sentiment%20classifier.ipynb) making the model
+- Use [Dataset Cleaning code](https://github.com/aditimaurya/Pocket-Aces-Task/blob/main/Code/Data_Preprocessing%20and%20scoring.ipynb) For cleaning the data.
+- USe for [Model Making code](https://github.com/aditimaurya/Pocket-Aces-Task/blob/main/Code/Sentiment%20classifier.ipynb) making the model
 ```
 df = pd.read_csv('Dataset file path')
 ```
